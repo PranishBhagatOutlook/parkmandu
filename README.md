@@ -7,3 +7,6 @@ Prototype of a Parking Management System implemented using OpenCV on Python
 
 # Usage
 Run `ParkedCars.py` to see the prototype detect open parking spaces.
+
+# Update
+Added.
